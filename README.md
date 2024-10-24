@@ -11,4 +11,5 @@ Project is created using Vite.Please install the dependencies before running pro
 mongoDB command : nodemon app
 
 NODE folder-> BackEnd folder
-testproject=> FrontEnd folder
+
+testproject-> FrontEnd folder
